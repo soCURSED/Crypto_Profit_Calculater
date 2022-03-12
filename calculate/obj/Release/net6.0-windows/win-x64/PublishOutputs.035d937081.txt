@@ -1,0 +1,7 @@
+C:\Users\falsh\Desktop\calculate.pdb
+C:\Users\falsh\Desktop\D3DCompiler_47_cor3.dll
+C:\Users\falsh\Desktop\PenImc_cor3.dll
+C:\Users\falsh\Desktop\PresentationNative_cor3.dll
+C:\Users\falsh\Desktop\vcruntime140_cor3.dll
+C:\Users\falsh\Desktop\wpfgfx_cor3.dll
+C:\Users\falsh\Desktop\calculate.exe

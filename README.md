@@ -1,2 +1,2 @@
-# Crypto_Profit_Calculater
+# Crypto_Profit_Calculate
  

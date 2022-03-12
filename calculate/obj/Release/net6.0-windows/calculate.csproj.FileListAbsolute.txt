@@ -1,0 +1,17 @@
+C:\Users\falsh\Desktop\code\BTC\calculate\calculate\bin\Release\net6.0-windows\calculate.exe
+C:\Users\falsh\Desktop\code\BTC\calculate\calculate\bin\Release\net6.0-windows\calculate.deps.json
+C:\Users\falsh\Desktop\code\BTC\calculate\calculate\bin\Release\net6.0-windows\calculate.runtimeconfig.json
+C:\Users\falsh\Desktop\code\BTC\calculate\calculate\bin\Release\net6.0-windows\calculate.dll
+C:\Users\falsh\Desktop\code\BTC\calculate\calculate\bin\Release\net6.0-windows\ref\calculate.dll
+C:\Users\falsh\Desktop\code\BTC\calculate\calculate\bin\Release\net6.0-windows\calculate.pdb
+C:\Users\falsh\Desktop\code\BTC\calculate\calculate\obj\Release\net6.0-windows\calculate.Form1.resources
+C:\Users\falsh\Desktop\code\BTC\calculate\calculate\obj\Release\net6.0-windows\calculate.csproj.GenerateResource.cache
+C:\Users\falsh\Desktop\code\BTC\calculate\calculate\obj\Release\net6.0-windows\calculate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\falsh\Desktop\code\BTC\calculate\calculate\obj\Release\net6.0-windows\calculate.AssemblyInfoInputs.cache
+C:\Users\falsh\Desktop\code\BTC\calculate\calculate\obj\Release\net6.0-windows\calculate.AssemblyInfo.cs
+C:\Users\falsh\Desktop\code\BTC\calculate\calculate\obj\Release\net6.0-windows\calculate.csproj.CoreCompileInputs.cache
+C:\Users\falsh\Desktop\code\BTC\calculate\calculate\obj\Release\net6.0-windows\calculate.csproj.Fody.CopyLocal.cache
+C:\Users\falsh\Desktop\code\BTC\calculate\calculate\obj\Release\net6.0-windows\calculate.dll
+C:\Users\falsh\Desktop\code\BTC\calculate\calculate\obj\Release\net6.0-windows\ref\calculate.dll
+C:\Users\falsh\Desktop\code\BTC\calculate\calculate\obj\Release\net6.0-windows\calculate.pdb
+C:\Users\falsh\Desktop\code\BTC\calculate\calculate\obj\Release\net6.0-windows\calculate.genruntimeconfig.cache

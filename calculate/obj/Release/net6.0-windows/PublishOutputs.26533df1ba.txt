@@ -1,0 +1,5 @@
+C:\Users\falsh\Desktop\code\gg\calculate.exe
+C:\Users\falsh\Desktop\code\gg\calculate.dll
+C:\Users\falsh\Desktop\code\gg\calculate.deps.json
+C:\Users\falsh\Desktop\code\gg\calculate.runtimeconfig.json
+C:\Users\falsh\Desktop\code\gg\calculate.pdb
